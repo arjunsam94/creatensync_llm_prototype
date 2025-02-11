@@ -18,5 +18,6 @@ A tool where content creators can just upload their content and automatically id
 ## Results
 Pitched the prototype to judges from organizations like Google, Amazon, and Madrona Ventures and was recognized as the most creative among 10 projects presented that day. 
 
-## Considerations
-* The size and format of the content can significantly impact the user experience since these factors can significantly increase the time and cost to find good affiliate matches. It is important to beta test different content formats and sizes in stages before launching the finished product.
+## Observations
+* The size and format of the content significantly impacted the user experience since these factors increased the time to find good affiliate matches.
+* Filtering the search to products matching the relevant category proved to be a challenge with a search engine, since it returned irrelevant ads even with search operators. It might be better to expand product searches outside ProductHunt through partnership with marketplaces like ConvertKit or Impact for affiliate opportunities.
