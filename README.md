@@ -12,8 +12,8 @@ While more professionals are entering the creator economy, not all creators can 
 A tool where content creators can just upload their content and automatically identify the most relevant products they can partner with for affiliate opportunities. The prototype of the platform currently includes:
 
 * Audio transcription using whisper small model.
-* Used zero-shot classification model (bart-large-mnli) to identify the relevant category of the transcribed text by comparing it against product categories scraped from ProductHunt, using BeautifulSoup.
-* The top products by ratings from the relevant category are scraped to help creators find relevant affiliate opportunities from ProductHunt.
+* Zero-shot classification model (bart-large-mnli) to identify the relevant category of the transcribed text by comparing it against product categories scraped from ProductHunt, using BeautifulSoup.
+* Top products by ratings from the relevant category scraped from ProductHunt to help creators find relevant affiliate opportunities.
 
 ## Results
 Pitched the prototype to judges from organizations like Google, Amazon, and Madrona Ventures and was recognized as the most creative among 10 projects presented that day. 
