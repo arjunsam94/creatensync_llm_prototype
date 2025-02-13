@@ -12,13 +12,7 @@ While more professionals are entering the creator economy, not all creators can 
 A tool where content creators can just upload their content and automatically identify the most relevant products they can partner with for affiliate opportunities. The prototype of the platform currently includes:
 
 * Audio transcription using whisper small model.
-
-![alt text](https://github.com/arjunsam94/creatensync_llm_prototype/blob/f7a27fa3ed1cfd42d50b72f7464e74fc5730a1f4/audio_text.png)
-
 * Zero-shot classification model (bart-large-mnli) to identify the relevant category of the transcribed text by comparing it against product categories scraped from ProductHunt, using BeautifulSoup.
-
-![alt text](https://github.com/arjunsam94/creatensync_llm_prototype/blob/f7a27fa3ed1cfd42d50b72f7464e74fc5730a1f4/categories.png)
-
 * Top products by ratings from the relevant category scraped from ProductHunt to help creators find relevant affiliate opportunities.
 
 ![alt text](https://github.com/arjunsam94/creatensync_llm_prototype/blob/f7a27fa3ed1cfd42d50b72f7464e74fc5730a1f4/products.png)
